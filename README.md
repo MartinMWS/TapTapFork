@@ -1,6 +1,6 @@
 # Tap, Tap
 
-**Download**: [![Latest release](https://img.shields.io/github/release/KieronQuinn/TapTap.svg?maxAge=3600&label=download)](https://github.com/KieronQuinn/TapTap/releases)
+**Download**: [![Latest release](https://github.com/MartinMWS/TapTapFork/releases)](https://github.com/MartinMWS/TapTapFork/releases)
 
 ---
 
