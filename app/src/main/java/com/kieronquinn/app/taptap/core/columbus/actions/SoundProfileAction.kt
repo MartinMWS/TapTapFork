@@ -23,13 +23,13 @@ class SoundProfileAction(context: Context, whenList : List<WhenGateInternal>) : 
         currentProfileAction = audioManager.ringerMode
         when (currentProfileAction) {
             0 -> {
-                audioManager.ringerMode = 1
+                audioManager.ringerMode = 2
             }
             1 -> {
                 audioManager.ringerMode = 2
             }
             2 -> {
-                audioManager.ringerMode = 0
+                audioManager.ringerMode = 1
             }
         }
     }
