@@ -1,6 +1,6 @@
 # Tap, Tap
 
-**Download**: [![Latest release](https://github.com/MartinMWS/TapTapFork/releases)
+**Download**: [Latest release](https://github.com/MartinMWS/TapTapFork/releases)
 
 ---
 
